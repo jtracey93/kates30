@@ -3,6 +3,4 @@ title: kate
 url: /surprise/kate
 ---
 
-
-# You can't say i didn't warn you 🤷‍♂️
-
+# You can't say I didn't warn you 🤷‍♂️

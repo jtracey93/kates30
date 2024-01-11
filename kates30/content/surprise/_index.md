@@ -26,6 +26,10 @@ I love you more, always x
 
 Jack
 
+P.S. Never stop being you 👇
+
+<img src="/img/kate-jack-wedding-pre-shoot.JPG" width="60%">
+
 ---
 
 Oh and this idiot says happy birthday too!

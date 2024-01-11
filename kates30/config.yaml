@@ -6,7 +6,7 @@ theme: eternity
 
 params:
   image: /images/banner.png
-  logo: /logo.png
+  logo: /img/cupcake.png
   subtitle: Kate's 30th birthday surprise website # todo: change default subtitle for your website.
   copyright: All rights reserved. # todo: set your copyright type.
   author: Jack Tracey # todo: set your full name.

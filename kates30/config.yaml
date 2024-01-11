@@ -14,7 +14,7 @@ params:
   portfolio:
     columns:
       desktop:
-        kate: 4
+        kate: 5
         default: 3
       mobile:
         default: 2

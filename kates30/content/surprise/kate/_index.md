@@ -4,7 +4,5 @@ url: /surprise/kate
 ---
 
 
-# Kate
-
-TBC
+# You can't say i didn't warn you 🤷‍♂️
 

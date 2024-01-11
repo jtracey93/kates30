@@ -5,7 +5,7 @@ theme: eternity
 # googleAnalytics: '' # todo: set your analytics id.
 
 params:
-  image: /images/banner.png
+  image: /images/cupcakes.png
   logo: /img/cupcake.png
   subtitle: Kate's 30th birthday surprise website # todo: change default subtitle for your website.
   copyright: All rights reserved. # todo: set your copyright type.

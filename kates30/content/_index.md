@@ -1,5 +1,6 @@
 ---
 desc:
-- Eternity is a minimalist Hugo theme
-- designed for portfolio sites with a fresh feel.
+- Happy 30th Birthday 🧁
+- 🎂🎂🎂🎂🎂🎂🎂🎂🎂🎂
+- (did you really expect anything else; of course I made a website 😁)
 ---

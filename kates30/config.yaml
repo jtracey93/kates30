@@ -1,43 +1,41 @@
-baseURL: https://eternity.bora.sh # todo: change site url.
-title: Eternity # todo: change site name.
+baseURL: https://kates30.thetraceys.co.uk # todo: change site url.
+title: Kate Turns 30 # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
-googleAnalytics: '' # todo: set your analytics id.
+# googleAnalytics: '' # todo: set your analytics id.
 
 params:
   image: /images/banner.png
   logo: /logo.png
-  subtitle: Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel. # todo: change default subtitle for your website.
+  subtitle: Kate's 30th birthday surprise website # todo: change default subtitle for your website.
   copyright: All rights reserved. # todo: set your copyright type.
-  author: Lovely Author # todo: set your full name.
+  author: Jack Tracey # todo: set your full name.
   dontShowSource: false # please, do not do this :)
   portfolio:
     columns:
       desktop:
-        nature: 4
-        archive: 6
-        people: 2
+        kate: 4
         default: 3
       mobile:
         default: 2
-        archive: 3
-        people: 1
+        kate: 3
   socials:
-    # todo: change these links.
-    - icon: 'far fa-envelope fa-lg'
-      url: 'mailto:eternity@bora.sh'
-      landing: true
-    - icon: 'fab fa-github fa-lg'
-      url: 'https://github.com/boratanrikulu/eternity'
-      landing: true
-    - icon: 'fab fa-instagram fa-lg'
-      url: 'https://instagram.bora.sh/eternity'
-    - icon: 'fab fa-linkedin-in fa-lg'
-      url: 'https://linkedin.bora.sh/in/eternity'
-  homepage: "/work" # homepage link, mostly same with menu.main[0]
+    # # todo: change these links.
+    # - icon: 'far fa-envelope fa-lg'
+    #   url: 'mailto:eternity@bora.sh'
+    #   landing: true
+    # - icon: 'fab fa-github fa-lg'
+    #   url: 'https://github.com/boratanrikulu/eternity'
+    #   landing: true
+    # - icon: 'fab fa-instagram fa-lg'
+    #   url: 'https://instagram.bora.sh/eternity'
+    # - icon: 'fab fa-linkedin-in fa-lg'
+    #   url: 'https://linkedin.bora.sh/in/eternity'
+  homepage: "/surprise" # homepage link, mostly same with menu.main[0]
   specialPages:
-    - work
-    - archive
+    - surprise
+    - present
+    - kate
   bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
   disableWelcomePageBackground: false # disables the background image on the homepage
   plausible: '' # todo: set your plausible id.
@@ -59,18 +57,12 @@ permalinks:
 
 menu:
   main:
-    - name: work
-      url: /work/
+    - name: surprise
+      url: /surprise/
       weight: 1
-    - name: people
-      url: /tags/people/
+    - name: present
+      url: /surprise/present/
       weight: 2
-    - name: nature
-      url: /tags/nature/
+    - name: kate
+      url: /surprise/kate/
       weight: 3
-    - name: archive
-      url: /tags/archive/
-      weight: 4
-    - name: about
-      url: /about/
-      weight: 5
